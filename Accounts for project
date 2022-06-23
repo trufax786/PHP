@@ -1,4 +1,4 @@
 Accounts
-Admin: trufax3/trufax3
-Client: user1/client
-Banned: banned/nimeni
+Admin:  Log:trufax3 Pass:trufax3
+Client: Log:user1  Pass:client
+Banned: Log:banned Pass:nimeni
